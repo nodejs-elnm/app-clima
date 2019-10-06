@@ -1,0 +1,22 @@
+{
+  "name": "003-clima",
+  "version": "1.0.0",
+  "description": "## Temas a tratar con esta app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-elnm/app-clima.git"
+  },
+  "author": "Erik N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejs-elnm/app-clima/issues"
+  },
+  "homepage": "https://github.com/nodejs-elnm/app-clima#readme",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  }
+}
